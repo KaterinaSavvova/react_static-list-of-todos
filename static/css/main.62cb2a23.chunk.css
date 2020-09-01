@@ -1,0 +1,2 @@
+.app{display:flex;justify-content:center;flex-wrap:wrap}.app,.app__title{text-align:center}.user{color:#144b14}.card{display:flex;flex-direction:column;justify-content:space-around;align-items:center;background-color:#f3f2a5;width:200px;height:200px;padding:10px;margin:10px;transition:1s}.card:hover{transform:scale(1.1)}.card__true{background-color:green}.card__false,.card__true{height:15px;width:15px;border:1px solid #000}.card__false{background-color:red}
+/*# sourceMappingURL=main.62cb2a23.chunk.css.map */
